@@ -1,7 +1,0 @@
-consumerKey=
-consumerSecret=
-accesToken=
-accesSecret=
-tweetFile=/home/username/...
-streamApiURL=https://stream.twitter.com/1.1/statuses/sample.json
-

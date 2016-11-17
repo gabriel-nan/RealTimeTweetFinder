@@ -1,7 +1,0 @@
-consumerKey=NU61zxmTJx2I42kuEJffszMUn
-consumerSecret=620sqZUKvbzb2vkOpnwcUXCnURxQwLq5JBK1Lbd4yRGsGoIh7v
-accesToken=796379550980644866-IA0NpxPvPkP6A3KkrDwT4J9bTZVf09B
-accesSecret=fzUoS29IR5Fxsli1fVsoeXLhjdrn0Aqq2qknHNllAXr89
-tweetFile=/home/gabriel/tweets.txt
-streamApiURL=https://stream.twitter.com/1.1/statuses/sample.json
-
